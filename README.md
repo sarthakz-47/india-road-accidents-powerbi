@@ -35,4 +35,4 @@ Driver Age, Driver Gender, License Status, Alcohol Involvement
 3. Explore all 4 dashboard pages
 
 ## Screenshots
-See the /Screenshots folder for dashboard previews.
+See the [Screenshots](ScreenShots/) folder for dashboard previews.
